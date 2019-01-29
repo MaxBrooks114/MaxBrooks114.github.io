@@ -1,11 +1,11 @@
 # Site settings
 author: Max Brooks
-title: 
+title: One for the Brooks
 header-img: img/home-bg.png
 email: maxbrooks114@gmail.com
 copyright_name: Max Brooks
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Little bits of wisdom from someone who is not wise.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MaxBrooks114
