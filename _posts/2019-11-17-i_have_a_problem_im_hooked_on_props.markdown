@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I have a problem, I'm Hooked on props "
-date:       2019-11-17 16:49:03 +0000
+date:       2019-11-17 11:49:04 -0500
 permalink:  i_have_a_problem_im_hooked_on_props
 ---
 
